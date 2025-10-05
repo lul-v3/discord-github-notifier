@@ -57,7 +57,7 @@ Use the generated HTTPS URL in your GitHub repo webhook settings:
 
 ## 📸 Preview
 Here’s an example of how a push event looks inside Discord:<br>
-![preview](https://raw.githubusercontent.com/lul-v3/discord-github-notifier/refs/heads/main/_github/img/preview.png?token=GHSAT0AAAAAADI5KTXIBJMOIELSFUMIZPX42G7UWEQ)
+![preview](https://raw.githubusercontent.com/lul-v3/discord-github-notifier/main/_github/img/preview.png)
 
 ## ⚙️ Customization
 You can easily change:
